@@ -1,0 +1,56 @@
+﻿11/03/2020 23:12:50 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+11/03/2020 23:12:50 [Info] - Creating database 'MindMap' if not exists.
+11/03/2020 23:12:51 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+11/03/2020 23:12:51 [Info] - End
+11/03/2020 23:13:58 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+11/03/2020 23:13:58 [Info] - Creating database 'MindMap' if not exists.
+11/03/2020 23:13:58 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+11/03/2020 23:13:58 [Info] - End
+11/03/2020 23:13:58 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+11/03/2020 23:13:58 [Info] - Creating database 'MindMap' if not exists.
+11/03/2020 23:13:58 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+11/03/2020 23:13:58 [Info] - End
+11/03/2020 23:14:03 [Info] - Connection string: user id=root;password=10250;server=127.0.0.1;connectiontimeout=10
+11/03/2020 23:14:03 [Info] - Creating database 'MindMap' if not exists.
+11/03/2020 23:14:05 [Error] - Error: Authentication to host '127.0.0.1' for user 'root' using method 'caching_sha2_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+11/03/2020 23:14:24 [Info] - Connection string: user id=root;password=10250;server=127.0.0.1;connectiontimeout=10
+11/03/2020 23:14:24 [Info] - Creating database 'MindMap' if not exists.
+11/03/2020 23:14:26 [Error] - Error: Authentication to host '127.0.0.1' for user 'root' using method 'caching_sha2_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+11/03/2020 23:16:02 [Info] - Connection string: user id=root;password=10250;server=127.0.0.1;connectiontimeout=10
+11/03/2020 23:16:02 [Info] - Creating database 'MindMap' if not exists.
+11/03/2020 23:16:07 [Error] - Error: Authentication to host '127.0.0.1' for user 'root' using method 'caching_sha2_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+11/03/2020 23:16:15 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+11/03/2020 23:16:15 [Info] - Creating database 'MindMap' if not exists.
+11/03/2020 23:16:15 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+11/03/2020 23:16:15 [Info] - End
+11/03/2020 23:16:15 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+11/03/2020 23:16:15 [Info] - Creating database 'MindMap' if not exists.
+11/03/2020 23:16:15 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+11/03/2020 23:16:15 [Info] - End
+12/03/2020 18:53:12 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+12/03/2020 18:53:12 [Info] - Creating database 'MindMap' if not exists.
+12/03/2020 18:53:15 [Error] - Error: Unable to connect to any of the specified MySQL hosts.
+12/04/2020 22:02:22 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+12/04/2020 22:02:22 [Info] - Creating database 'MindMap' if not exists.
+12/04/2020 22:02:23 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+12/04/2020 22:02:23 [Info] - End
+12/04/2020 22:02:23 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+12/04/2020 22:02:23 [Info] - Creating database 'MindMap' if not exists.
+12/04/2020 22:02:23 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+12/04/2020 22:02:23 [Info] - End
+12/04/2020 22:09:08 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+12/04/2020 22:09:08 [Info] - Creating database 'MindMap' if not exists.
+12/04/2020 22:09:09 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+12/04/2020 22:09:09 [Info] - End
+12/04/2020 22:09:09 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+12/04/2020 22:09:09 [Info] - Creating database 'MindMap' if not exists.
+12/04/2020 22:09:09 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+12/04/2020 22:09:09 [Info] - End
+12/04/2020 22:12:25 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+12/04/2020 22:12:26 [Info] - Creating database 'MindMap' if not exists.
+12/04/2020 22:12:26 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+12/04/2020 22:12:26 [Info] - End
+12/04/2020 22:12:26 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+12/04/2020 22:12:26 [Info] - Creating database 'MindMap' if not exists.
+12/04/2020 22:12:26 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+12/04/2020 22:12:26 [Info] - End

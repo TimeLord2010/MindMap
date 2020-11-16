@@ -1,0 +1,26 @@
+﻿<Page x:Class="MindMap.Pages.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MindMap.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="400" d:DesignWidth="600" Title="MainPage" Loaded="Page_Loaded">
+    <Grid Background="White">
+        <Menu VerticalAlignment="Top">
+            <MenuItem Header="Navigate">
+                <MenuItem Header="Main menu" Name="NavigateMainMenuMI" Click="NavigateMainMenuMI_Click"></MenuItem>
+                <MenuItem Header="Root" Name="NavigateRootMI" Click="NavigateRootMI_Click"></MenuItem>
+                <MenuItem Header="Diagram view" Name="DiagramViewMI" Click="DiagramViewMI_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Options">
+                <MenuItem Header="Appearance">
+                    <MenuItem Header="Buttons"></MenuItem>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <Grid Margin="0,20,0,0">
+            <Frame Name="MyFrame" NavigationUIVisibility="Hidden"></Frame>
+        </Grid>
+    </Grid>
+</Page>

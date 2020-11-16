@@ -1,0 +1,5 @@
+﻿19/09/2019 17:15 [Info] - 
+19/09/2019 17:15 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+19/09/2019 17:15 [Info] - Creating database 'MindMap' if not exists.
+19/09/2019 17:15 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+19/09/2019 17:15 [Info] - End

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindMap", "MindMap\MindMap.csproj", "{D1EDF66B-D808-42C6-97DD-73F880C84709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1EDF66B-D808-42C6-97DD-73F880C84709}.Debug|x64.ActiveCfg = Debug|x64
+		{D1EDF66B-D808-42C6-97DD-73F880C84709}.Debug|x64.Build.0 = Debug|x64
+		{D1EDF66B-D808-42C6-97DD-73F880C84709}.Release|x64.ActiveCfg = Release|x64
+		{D1EDF66B-D808-42C6-97DD-73F880C84709}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CD381C7-020B-46C6-BA75-325F2F3BF5D8}
+	EndGlobalSection
+EndGlobal

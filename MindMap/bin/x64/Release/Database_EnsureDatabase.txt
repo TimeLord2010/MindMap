@@ -1,0 +1,458 @@
+﻿27/09/2019 09:59 [Info] - 
+27/09/2019 09:59 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+27/09/2019 09:59 [Info] - Creating database 'MindMap' if not exists.
+27/09/2019 09:59 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+27/09/2019 09:59 [Info] - End
+03/10/2019 19:11:09 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+03/10/2019 19:11:09 [Info] - Creating database 'MindMap' if not exists.
+03/10/2019 19:11:10 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+03/10/2019 19:11:10 [Info] - End
+03/10/2019 19:11:13 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+03/10/2019 19:11:13 [Info] - Creating database 'MindMap' if not exists.
+03/10/2019 19:11:13 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+03/10/2019 19:11:13 [Info] - End
+03/10/2019 19:43:15 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+03/10/2019 19:43:15 [Info] - Creating database 'MindMap' if not exists.
+03/10/2019 19:43:15 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+03/10/2019 19:43:15 [Info] - End
+03/10/2019 19:43:17 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+03/10/2019 19:43:17 [Info] - Creating database 'MindMap' if not exists.
+03/10/2019 19:43:17 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+03/10/2019 19:43:17 [Info] - End
+16/10/2019 18:27:32 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+16/10/2019 18:27:32 [Info] - Creating database 'MindMap' if not exists.
+16/10/2019 18:27:32 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+16/10/2019 18:27:32 [Info] - End
+16/10/2019 18:27:35 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+16/10/2019 18:27:35 [Info] - Creating database 'MindMap' if not exists.
+16/10/2019 18:27:35 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+16/10/2019 18:27:35 [Info] - End
+17/10/2019 10:28:31 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/10/2019 10:28:31 [Info] - Creating database 'MindMap' if not exists.
+17/10/2019 10:28:32 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/10/2019 10:28:32 [Info] - End
+17/10/2019 10:30:49 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/10/2019 10:30:49 [Info] - Creating database 'MindMap' if not exists.
+17/10/2019 10:30:49 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/10/2019 10:30:49 [Info] - End
+17/10/2019 10:30:52 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/10/2019 10:30:52 [Info] - Creating database 'MindMap' if not exists.
+17/10/2019 10:30:52 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/10/2019 10:30:52 [Info] - End
+17/10/2019 10:47:41 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/10/2019 10:47:41 [Info] - Creating database 'MindMap' if not exists.
+17/10/2019 10:47:41 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/10/2019 10:47:41 [Info] - End
+17/10/2019 10:47:53 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/10/2019 10:47:53 [Info] - Creating database 'MindMap' if not exists.
+17/10/2019 10:47:54 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/10/2019 10:47:54 [Info] - End
+17/10/2019 10:48:18 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/10/2019 10:48:18 [Info] - Creating database 'MindMap' if not exists.
+17/10/2019 10:48:18 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/10/2019 10:48:18 [Info] - End
+17/10/2019 15:21:20 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/10/2019 15:21:20 [Info] - Creating database 'MindMap' if not exists.
+17/10/2019 15:21:21 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/10/2019 15:21:21 [Info] - End
+17/10/2019 15:21:29 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/10/2019 15:21:29 [Info] - Creating database 'MindMap' if not exists.
+17/10/2019 15:21:29 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/10/2019 15:21:29 [Info] - End
+17/10/2019 16:27:14 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/10/2019 16:27:14 [Info] - Creating database 'MindMap' if not exists.
+17/10/2019 16:27:15 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/10/2019 16:27:15 [Info] - End
+17/10/2019 16:27:16 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/10/2019 16:27:16 [Info] - Creating database 'MindMap' if not exists.
+17/10/2019 16:27:16 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/10/2019 16:27:16 [Info] - End
+17/10/2019 18:54:07 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/10/2019 18:54:07 [Info] - Creating database 'MindMap' if not exists.
+17/10/2019 18:54:07 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/10/2019 18:54:07 [Info] - End
+17/10/2019 18:54:12 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/10/2019 18:54:12 [Info] - Creating database 'MindMap' if not exists.
+17/10/2019 18:54:12 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/10/2019 18:54:12 [Info] - End
+17/10/2019 21:52:06 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/10/2019 21:52:06 [Info] - Creating database 'MindMap' if not exists.
+17/10/2019 21:52:09 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/10/2019 21:52:09 [Info] - End
+17/10/2019 22:39:02 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/10/2019 22:39:02 [Info] - Creating database 'MindMap' if not exists.
+17/10/2019 22:39:02 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/10/2019 22:39:02 [Info] - End
+21/10/2019 21:15:33 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+21/10/2019 21:15:33 [Info] - Creating database 'MindMap' if not exists.
+21/10/2019 21:15:34 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+21/10/2019 21:15:34 [Info] - End
+21/10/2019 21:15:36 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+21/10/2019 21:15:36 [Info] - Creating database 'MindMap' if not exists.
+21/10/2019 21:15:36 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+21/10/2019 21:15:36 [Info] - End
+22/10/2019 13:37:18 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+22/10/2019 13:37:18 [Info] - Creating database 'MindMap' if not exists.
+22/10/2019 13:37:19 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+22/10/2019 13:37:19 [Info] - End
+22/10/2019 13:37:20 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+22/10/2019 13:37:20 [Info] - Creating database 'MindMap' if not exists.
+22/10/2019 13:37:20 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+22/10/2019 13:37:20 [Info] - End
+23/10/2019 12:18:04 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+23/10/2019 12:18:04 [Info] - Creating database 'MindMap' if not exists.
+23/10/2019 12:18:06 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+23/10/2019 12:18:06 [Info] - End
+23/10/2019 12:18:18 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+23/10/2019 12:18:18 [Info] - Creating database 'MindMap' if not exists.
+23/10/2019 12:18:18 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+23/10/2019 12:18:18 [Info] - End
+23/10/2019 12:48:48 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+23/10/2019 12:48:48 [Info] - Creating database 'MindMap' if not exists.
+23/10/2019 12:48:48 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+23/10/2019 12:48:48 [Info] - End
+23/10/2019 12:50:13 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+23/10/2019 12:50:13 [Info] - Creating database 'MindMap' if not exists.
+23/10/2019 12:50:13 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+23/10/2019 12:50:13 [Info] - End
+23/10/2019 13:05:13 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+23/10/2019 13:05:13 [Info] - Creating database 'MindMap' if not exists.
+23/10/2019 13:05:14 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+23/10/2019 13:05:14 [Info] - End
+23/10/2019 13:05:16 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+23/10/2019 13:05:16 [Info] - Creating database 'MindMap' if not exists.
+23/10/2019 13:05:16 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+23/10/2019 13:05:16 [Info] - End
+23/10/2019 16:22:19 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+23/10/2019 16:22:19 [Info] - Creating database 'MindMap' if not exists.
+23/10/2019 16:22:20 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+23/10/2019 16:22:20 [Info] - End
+23/10/2019 16:22:32 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+23/10/2019 16:22:32 [Info] - Creating database 'MindMap' if not exists.
+23/10/2019 16:22:32 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+23/10/2019 16:22:32 [Info] - End
+23/10/2019 17:42:07 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+23/10/2019 17:42:07 [Info] - Creating database 'MindMap' if not exists.
+23/10/2019 17:42:08 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+23/10/2019 17:42:08 [Info] - End
+23/10/2019 17:42:11 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+23/10/2019 17:42:11 [Info] - Creating database 'MindMap' if not exists.
+23/10/2019 17:42:11 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+23/10/2019 17:42:11 [Info] - End
+28/10/2019 21:14:59 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+28/10/2019 21:14:59 [Info] - Creating database 'MindMap' if not exists.
+28/10/2019 21:14:59 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+28/10/2019 21:14:59 [Info] - End
+28/10/2019 21:15:01 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+28/10/2019 21:15:01 [Info] - Creating database 'MindMap' if not exists.
+28/10/2019 21:15:01 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+28/10/2019 21:15:01 [Info] - End
+29/10/2019 15:34:09 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+29/10/2019 15:34:09 [Info] - Creating database 'MindMap' if not exists.
+29/10/2019 15:34:09 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+29/10/2019 15:34:09 [Info] - End
+30/10/2019 01:57:37 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+30/10/2019 01:57:37 [Info] - Creating database 'MindMap' if not exists.
+30/10/2019 01:57:38 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+30/10/2019 01:57:38 [Info] - End
+30/10/2019 01:57:40 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+30/10/2019 01:57:40 [Info] - Creating database 'MindMap' if not exists.
+30/10/2019 01:57:40 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+30/10/2019 01:57:40 [Info] - End
+30/10/2019 11:54:32 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+30/10/2019 11:54:32 [Info] - Creating database 'MindMap' if not exists.
+30/10/2019 11:54:32 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+30/10/2019 11:54:32 [Info] - End
+30/10/2019 11:54:35 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+30/10/2019 11:54:35 [Info] - Creating database 'MindMap' if not exists.
+30/10/2019 11:54:35 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+30/10/2019 11:54:35 [Info] - End
+30/10/2019 12:01:41 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+30/10/2019 12:01:41 [Info] - Creating database 'MindMap' if not exists.
+30/10/2019 12:01:42 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+30/10/2019 12:01:42 [Info] - End
+30/10/2019 12:01:43 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+30/10/2019 12:01:43 [Info] - Creating database 'MindMap' if not exists.
+30/10/2019 12:01:43 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+30/10/2019 12:01:43 [Info] - End
+30/10/2019 21:11:00 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+30/10/2019 21:11:00 [Info] - Creating database 'MindMap' if not exists.
+30/10/2019 21:11:01 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+30/10/2019 21:11:01 [Info] - End
+30/10/2019 21:11:03 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+30/10/2019 21:11:03 [Info] - Creating database 'MindMap' if not exists.
+30/10/2019 21:11:03 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+30/10/2019 21:11:03 [Info] - End
+30/10/2019 23:36:50 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+30/10/2019 23:36:51 [Info] - Creating database 'MindMap' if not exists.
+30/10/2019 23:36:51 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+30/10/2019 23:36:51 [Info] - End
+30/10/2019 23:36:53 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+30/10/2019 23:36:53 [Info] - Creating database 'MindMap' if not exists.
+30/10/2019 23:36:53 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+30/10/2019 23:36:53 [Info] - End
+31/10/2019 16:46:50 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+31/10/2019 16:46:50 [Info] - Creating database 'MindMap' if not exists.
+31/10/2019 16:46:50 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+31/10/2019 16:46:50 [Info] - End
+31/10/2019 16:46:52 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+31/10/2019 16:46:52 [Info] - Creating database 'MindMap' if not exists.
+31/10/2019 16:46:52 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+31/10/2019 16:46:52 [Info] - End
+17/11/2019 11:58:09 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/11/2019 11:58:09 [Info] - Creating database 'MindMap' if not exists.
+17/11/2019 11:58:10 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/11/2019 11:58:10 [Info] - End
+17/11/2019 11:58:11 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+17/11/2019 11:58:11 [Info] - Creating database 'MindMap' if not exists.
+17/11/2019 11:58:11 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+17/11/2019 11:58:11 [Info] - End
+21/11/2019 17:51:08 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+21/11/2019 17:51:08 [Info] - Creating database 'MindMap' if not exists.
+21/11/2019 17:51:09 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+21/11/2019 17:51:09 [Info] - End
+04/12/2019 18:21:52 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+04/12/2019 18:21:52 [Info] - Creating database 'MindMap' if not exists.
+04/12/2019 18:21:53 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+04/12/2019 18:21:53 [Info] - End
+04/12/2019 18:22:06 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+04/12/2019 18:22:06 [Info] - Creating database 'MindMap' if not exists.
+04/12/2019 18:22:06 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+04/12/2019 18:22:06 [Info] - End
+28/02/2020 23:15:26 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+28/02/2020 23:15:26 [Info] - Creating database 'MindMap' if not exists.
+28/02/2020 23:15:30 [Error] - Error: Unable to connect to any of the specified MySQL hosts.
+28/02/2020 23:16:11 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+28/02/2020 23:16:11 [Info] - Creating database 'MindMap' if not exists.
+28/02/2020 23:16:12 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+28/02/2020 23:16:12 [Info] - End
+28/02/2020 23:16:16 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+28/02/2020 23:16:16 [Info] - Creating database 'MindMap' if not exists.
+28/02/2020 23:16:16 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+28/02/2020 23:16:16 [Info] - End
+29/02/2020 09:22:15 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+29/02/2020 09:22:15 [Info] - Creating database 'MindMap' if not exists.
+29/02/2020 09:22:16 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+29/02/2020 09:22:16 [Info] - End
+29/02/2020 09:22:17 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+29/02/2020 09:22:17 [Info] - Creating database 'MindMap' if not exists.
+29/02/2020 09:22:17 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+29/02/2020 09:22:17 [Info] - End
+29/02/2020 10:15:09 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+29/02/2020 10:15:09 [Info] - Creating database 'MindMap' if not exists.
+29/02/2020 10:15:11 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+29/02/2020 10:15:11 [Info] - End
+29/02/2020 10:16:15 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+29/02/2020 10:16:15 [Info] - Creating database 'MindMap' if not exists.
+29/02/2020 10:16:15 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+29/02/2020 10:16:15 [Info] - End
+29/02/2020 10:59:02 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+29/02/2020 10:59:02 [Info] - Creating database 'MindMap' if not exists.
+29/02/2020 10:59:03 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+29/02/2020 10:59:03 [Info] - End
+29/02/2020 10:59:04 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+29/02/2020 10:59:04 [Info] - Creating database 'MindMap' if not exists.
+29/02/2020 10:59:04 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+29/02/2020 10:59:04 [Info] - End
+29/02/2020 18:03:08 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+29/02/2020 18:03:08 [Info] - Creating database 'MindMap' if not exists.
+29/02/2020 18:03:08 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+29/02/2020 18:03:08 [Info] - End
+29/02/2020 18:03:21 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+29/02/2020 18:03:21 [Info] - Creating database 'MindMap' if not exists.
+29/02/2020 18:03:21 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+29/02/2020 18:03:21 [Info] - End
+01/03/2020 18:30:25 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+01/03/2020 18:30:25 [Info] - Creating database 'MindMap' if not exists.
+01/03/2020 18:30:29 [Error] - Error: Unable to connect to any of the specified MySQL hosts.
+01/03/2020 18:30:46 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+01/03/2020 18:30:46 [Info] - Creating database 'MindMap' if not exists.
+01/03/2020 18:30:46 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+01/03/2020 18:30:46 [Info] - End
+01/03/2020 18:30:51 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+01/03/2020 18:30:51 [Info] - Creating database 'MindMap' if not exists.
+01/03/2020 18:30:51 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+01/03/2020 18:30:51 [Info] - End
+06/03/2020 20:07:21 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+06/03/2020 20:07:21 [Info] - Creating database 'MindMap' if not exists.
+06/03/2020 20:07:21 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+06/03/2020 20:07:21 [Info] - End
+06/03/2020 20:07:23 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+06/03/2020 20:07:23 [Info] - Creating database 'MindMap' if not exists.
+06/03/2020 20:07:23 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+06/03/2020 20:07:23 [Info] - End
+06/03/2020 20:59:25 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+06/03/2020 20:59:25 [Info] - Creating database 'MindMap' if not exists.
+06/03/2020 20:59:26 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+06/03/2020 20:59:26 [Info] - End
+06/03/2020 20:59:27 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+06/03/2020 20:59:27 [Info] - Creating database 'MindMap' if not exists.
+06/03/2020 20:59:27 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+06/03/2020 20:59:27 [Info] - End
+09/03/2020 17:21:29 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+09/03/2020 17:21:29 [Info] - Creating database 'MindMap' if not exists.
+09/03/2020 17:21:30 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+09/03/2020 17:21:30 [Info] - End
+09/03/2020 17:21:34 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+09/03/2020 17:21:34 [Info] - Creating database 'MindMap' if not exists.
+09/03/2020 17:21:34 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+09/03/2020 17:21:34 [Info] - End
+09/03/2020 19:16:01 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+09/03/2020 19:16:01 [Info] - Creating database 'MindMap' if not exists.
+09/03/2020 19:16:02 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+09/03/2020 19:16:02 [Info] - End
+09/03/2020 19:16:03 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+09/03/2020 19:16:03 [Info] - Creating database 'MindMap' if not exists.
+09/03/2020 19:16:03 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+09/03/2020 19:16:03 [Info] - End
+11/03/2020 19:14:13 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+11/03/2020 19:14:13 [Info] - Creating database 'MindMap' if not exists.
+11/03/2020 19:14:14 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+11/03/2020 19:14:14 [Info] - End
+11/03/2020 19:14:15 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+11/03/2020 19:14:15 [Info] - Creating database 'MindMap' if not exists.
+11/03/2020 19:14:15 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+11/03/2020 19:14:15 [Info] - End
+11/03/2020 20:05:45 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+11/03/2020 20:05:45 [Info] - Creating database 'MindMap' if not exists.
+11/03/2020 20:05:46 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+11/03/2020 20:05:46 [Info] - End
+11/03/2020 20:05:48 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+11/03/2020 20:05:48 [Info] - Creating database 'MindMap' if not exists.
+11/03/2020 20:05:48 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+11/03/2020 20:05:48 [Info] - End
+12/03/2020 00:06:59 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+12/03/2020 00:06:59 [Info] - Creating database 'MindMap' if not exists.
+12/03/2020 00:07:00 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+12/03/2020 00:07:00 [Info] - End
+12/03/2020 00:07:00 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+12/03/2020 00:07:00 [Info] - Creating database 'MindMap' if not exists.
+12/03/2020 00:07:00 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+12/03/2020 00:07:00 [Info] - End
+12/03/2020 18:50:35 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+12/03/2020 18:50:35 [Info] - Creating database 'MindMap' if not exists.
+12/03/2020 18:50:39 [Error] - Error: Unable to connect to any of the specified MySQL hosts.
+13/03/2020 18:32:53 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+13/03/2020 18:32:53 [Info] - Creating database 'MindMap' if not exists.
+13/03/2020 18:32:57 [Error] - Error: Unable to connect to any of the specified MySQL hosts.
+13/03/2020 18:33:22 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+13/03/2020 18:33:22 [Info] - Creating database 'MindMap' if not exists.
+13/03/2020 18:33:23 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+13/03/2020 18:33:23 [Info] - End
+13/03/2020 18:33:23 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+13/03/2020 18:33:23 [Info] - Creating database 'MindMap' if not exists.
+13/03/2020 18:33:23 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+13/03/2020 18:33:23 [Info] - End
+14/03/2020 13:09:02 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+14/03/2020 13:09:02 [Info] - Creating database 'MindMap' if not exists.
+14/03/2020 13:09:03 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+14/03/2020 13:09:03 [Info] - End
+14/03/2020 13:09:03 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+14/03/2020 13:09:03 [Info] - Creating database 'MindMap' if not exists.
+14/03/2020 13:09:03 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+14/03/2020 13:09:03 [Info] - End
+15/03/2020 18:03:52 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+15/03/2020 18:03:52 [Info] - Creating database 'MindMap' if not exists.
+15/03/2020 18:03:53 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+15/03/2020 18:03:53 [Info] - End
+15/03/2020 18:03:53 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+15/03/2020 18:03:53 [Info] - Creating database 'MindMap' if not exists.
+15/03/2020 18:03:53 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+15/03/2020 18:03:53 [Info] - End
+16/03/2020 17:16:06 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+16/03/2020 17:16:06 [Info] - Creating database 'MindMap' if not exists.
+16/03/2020 17:16:07 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+16/03/2020 17:16:07 [Info] - End
+16/03/2020 17:16:07 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+16/03/2020 17:16:07 [Info] - Creating database 'MindMap' if not exists.
+16/03/2020 17:16:07 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+16/03/2020 17:16:07 [Info] - End
+29/03/2020 17:02:05 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+29/03/2020 17:02:05 [Info] - Creating database 'MindMap' if not exists.
+29/03/2020 17:02:05 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+29/03/2020 17:02:05 [Info] - End
+29/03/2020 17:02:05 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+29/03/2020 17:02:05 [Info] - Creating database 'MindMap' if not exists.
+29/03/2020 17:02:05 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+29/03/2020 17:02:05 [Info] - End
+29/03/2020 19:40:50 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+29/03/2020 19:40:50 [Info] - Creating database 'MindMap' if not exists.
+29/03/2020 19:40:50 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+29/03/2020 19:40:50 [Info] - End
+29/03/2020 19:40:50 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+29/03/2020 19:40:50 [Info] - Creating database 'MindMap' if not exists.
+29/03/2020 19:40:50 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+29/03/2020 19:40:50 [Info] - End
+02/04/2020 17:42:59 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+02/04/2020 17:42:59 [Info] - Creating database 'MindMap' if not exists.
+02/04/2020 17:43:00 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+02/04/2020 17:43:00 [Info] - End
+02/04/2020 17:43:00 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+02/04/2020 17:43:00 [Info] - Creating database 'MindMap' if not exists.
+02/04/2020 17:43:00 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+02/04/2020 17:43:00 [Info] - End
+12/04/2020 21:27:16 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+12/04/2020 21:27:16 [Info] - Creating database 'MindMap' if not exists.
+12/04/2020 21:27:20 [Error] - Error: Unable to connect to any of the specified MySQL hosts.
+12/04/2020 21:27:43 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+12/04/2020 21:27:43 [Info] - Creating database 'MindMap' if not exists.
+12/04/2020 21:27:44 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+12/04/2020 21:27:44 [Info] - End
+12/04/2020 21:27:44 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+12/04/2020 21:27:44 [Info] - Creating database 'MindMap' if not exists.
+12/04/2020 21:27:44 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+12/04/2020 21:27:44 [Info] - End
+12/04/2020 22:13:32 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+12/04/2020 22:13:32 [Info] - Creating database 'MindMap' if not exists.
+12/04/2020 22:13:32 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+12/04/2020 22:13:32 [Info] - End
+12/04/2020 22:13:32 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+12/04/2020 22:13:32 [Info] - Creating database 'MindMap' if not exists.
+12/04/2020 22:13:32 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+12/04/2020 22:13:32 [Info] - End
+23/04/2020 19:24:52 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+23/04/2020 19:24:52 [Info] - Creating database 'MindMap' if not exists.
+23/04/2020 19:24:56 [Error] - Error: Unable to connect to any of the specified MySQL hosts.
+23/04/2020 19:25:15 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+23/04/2020 19:25:15 [Info] - Creating database 'MindMap' if not exists.
+23/04/2020 19:25:15 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+23/04/2020 19:25:15 [Info] - End
+23/04/2020 19:25:15 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+23/04/2020 19:25:15 [Info] - Creating database 'MindMap' if not exists.
+23/04/2020 19:25:16 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+23/04/2020 19:25:16 [Info] - End
+25/04/2020 14:10:22 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+25/04/2020 14:10:22 [Info] - Creating database 'MindMap' if not exists.
+25/04/2020 14:10:26 [Error] - Error: Unable to connect to any of the specified MySQL hosts.
+25/04/2020 14:11:18 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+25/04/2020 14:11:18 [Info] - Creating database 'MindMap' if not exists.
+25/04/2020 14:11:19 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+25/04/2020 14:11:19 [Info] - End
+25/04/2020 14:11:19 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+25/04/2020 14:11:19 [Info] - Creating database 'MindMap' if not exists.
+25/04/2020 14:11:19 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+25/04/2020 14:11:19 [Info] - End
+28/04/2020 19:13:05 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+28/04/2020 19:13:05 [Info] - Creating database 'MindMap' if not exists.
+28/04/2020 19:13:06 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+28/04/2020 19:13:06 [Info] - End
+28/04/2020 19:13:06 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+28/04/2020 19:13:06 [Info] - Creating database 'MindMap' if not exists.
+28/04/2020 19:13:06 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+28/04/2020 19:13:06 [Info] - End
+09/05/2020 21:59:54 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+09/05/2020 21:59:54 [Info] - Creating database 'MindMap' if not exists.
+09/05/2020 21:59:55 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+09/05/2020 21:59:55 [Info] - End
+09/05/2020 21:59:55 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+09/05/2020 21:59:55 [Info] - Creating database 'MindMap' if not exists.
+09/05/2020 21:59:55 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+09/05/2020 21:59:55 [Info] - End
+05/06/2020 18:42:37 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+05/06/2020 18:42:37 [Info] - Creating database 'MindMap' if not exists.
+05/06/2020 18:42:37 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+05/06/2020 18:42:37 [Info] - End
+05/06/2020 18:42:37 [Info] - Connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10
+05/06/2020 18:42:37 [Info] - Creating database 'MindMap' if not exists.
+05/06/2020 18:42:37 [Info] - New connection string: user id=root;password=1025;server=127.0.0.1;connectiontimeout=10;database=MindMap
+05/06/2020 18:42:37 [Info] - End

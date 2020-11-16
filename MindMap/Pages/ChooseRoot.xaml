@@ -1,0 +1,36 @@
+﻿<Page x:Class="MindMap.Pages.ChooseRoot"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MindMap.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="400" d:DesignWidth="400" Title="ChooseRoot">
+    <Grid Background="White">
+        <Grid Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid>
+                <StackPanel>
+                    <Image x:Name="BackI" Width="30" Height="30" HorizontalAlignment="Left" Margin="0,0,0,5" MouseDown="BackI_MouseDown" Cursor="Hand"></Image>
+                    <TextBlock Foreground="Gray">Nome</TextBlock>
+                    <TextBox FontSize="14" Name="NomeTB" TextChanged="NomeTB_TextChanged"></TextBox>
+                </StackPanel>
+            </Grid>
+            <Grid Grid.Row="1">
+                <DataGrid IsReadOnly="True" x:Name="RootsDG" SelectionChanged="RootsDG_SelectionChanged" MouseDoubleClick="RootsDG_MouseDoubleClick"></DataGrid>
+            </Grid>
+            <Grid Grid.Row="2">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom">
+                    <Grid x:Name="DeletarG" MouseDown="DeletarG_MouseDown"></Grid>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom">
+                    <Grid Name="SelecionarG" Cursor="Hand" MouseDown="SelecionarG_MouseDown"></Grid>
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

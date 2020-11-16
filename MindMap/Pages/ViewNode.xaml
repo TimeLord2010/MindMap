@@ -1,0 +1,49 @@
+﻿<Page x:Class="MindMap.Pages.ViewNode"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MindMap.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800" Title="ViewNode">
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10">
+                <StackPanel>
+                    <TextBlock FontSize="11" Name="ParentNameTBL" Cursor="Hand" MouseDown="ParentNameTBL_MouseDown">Parent</TextBlock>
+                    <TextBlock FontWeight="Bold" FontSize="16" Name="CurrentNameTBL">Current</TextBlock>
+                </StackPanel>
+            </Grid>
+            <Grid Grid.Row="1">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel x:Name="ChildrenSP" Margin="2,2,5,2"></StackPanel>
+                </ScrollViewer>
+            </Grid>
+            <StackPanel Grid.Row="2" Margin="5,5,8,5">
+                <Grid x:Name="CriarG" MouseDown="CriarG_MouseDown"></Grid>
+            </StackPanel>
+        </Grid>
+        <GridSplitter HorizontalAlignment="Right" Background="LightGray" Width="3"></GridSplitter>
+        <Grid Grid.Column="1" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBox x:Name="ContentTBL" AcceptsReturn="True" FontSize="14" AcceptsTab="True" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" LostFocus="ContentTBL_LostFocus"/>
+            <Grid Grid.Row="1">
+                <StackPanel HorizontalAlignment="Right" VerticalAlignment="Bottom">
+                    <Grid x:Name="UndoAllG" MouseDown="UndoAllG_MouseDown"></Grid>
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>
